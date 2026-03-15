@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What was India's real GDP growth rate in 2023-24?",
+    "expected_answer": "India's real GDP grew by 7.6 per cent in 2023-24, compared with 7.0 per cent growth in 2022-23, according to the second advance estimates of the National Statistical Office (NSO). The acceleration was powered by solid expansion in investment demand.",
+    "expected_pages": [40, 41],
+    "category": "gdp",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What decision did the Monetary Policy Committee take on the repo rate during 2023-24?",
+    "expected_answer": "The Monetary Policy Committee (MPC) kept the policy repo rate unchanged at 6.50 per cent throughout 2023-24. The MPC continued with a stance of withdrawal of accommodation to ensure that inflation progressively aligns with the target while supporting growth.",
+    "expected_pages": [29, 272],
+    "category": "monetary_policy",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What was India's gross fiscal deficit as a percentage of GDP in 2023-24?",
+    "expected_answer": "The Union government contained its gross fiscal deficit (GFD) for 2023-24 at 5.9 per cent of GDP in the revised estimates (RE), in line with the budget estimates.",
+    "expected_pages": [85, 30],
+    "category": "fiscal",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "How many months of import cover did India's foreign exchange reserves provide at end-March 2024?",
+    "expected_answer": "As at end-March 2024, India's foreign exchange reserves provided a cover of 11.4 months of imports for 2023-24. The reserves were also five times higher than short-term external debt on original maturity basis.",
+    "expected_pages": [105],
+    "category": "forex",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What was the trend in gross NPA (GNPA) ratios of scheduled commercial banks?",
+    "expected_answer": "A significant improvement has been observed in the asset quality of scheduled commercial banks (SCBs). The gross non-performing asset (GNPA) ratio and net NPA ratio reached a multi-decadal low level and record low level respectively, reflecting strengthened balance sheets and increasing profitability.",
+    "expected_pages": [13],
+    "category": "npa",
+    "source": "Economic Survey Chapter 3"
+  },
+  {
+    "question": "How did headline CPI inflation behave in 2023-24?",
+    "expected_answer": "Headline CPI inflation moderated in 2023-24 into the tolerance band despite overlapping food price shocks. Core inflation exhibited broad-based disinflation since June 2023 and moved below 4 per cent by end-2023. The softening was driven by sustained anti-inflationary monetary policy, proactive supply management by the government, and correction in global commodity prices.",
+    "expected_pages": [54, 55, 67],
+    "category": "inflation",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What happened to India's current account deficit in 2023-24?",
+    "expected_answer": "India's external sector strengthened during 2023-24. The current account deficit narrowed, remaining sustainable and well financed. Capital flows recovered and helped augment foreign exchange reserves, enhancing the economy's ability to withstand spillovers from adverse global macro-financial shocks.",
+    "expected_pages": [105],
+    "category": "external_sector",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "How did bank credit growth perform in 2023-24 across private and public sector banks?",
+    "expected_answer": "Private sector banks (PVBs) credit growth accelerated to 19.2 per cent year-on-year as on March 22, 2024 from 17.8 per cent a year ago. Public sector banks (PSBs) credit growth also rose to 14.7 per cent from 13.8 per cent. Agriculture credit expanded by 20.1 per cent in March 2024.",
+    "expected_pages": [74],
+    "category": "banking",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What was the rate of gross capital formation as a share of GDP in 2023-24?",
+    "expected_answer": "The rate of gross domestic investment in the Indian economy, measured by the ratio of gross capital formation (GCF) to GDP at current prices, moderated marginally to 32.2 per cent in 2023-24. Investment demand was a key driver powering the acceleration in real GDP growth.",
+    "expected_pages": [41, 40],
+    "category": "investment",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "How is the RBI exploring the use of artificial intelligence in its operations?",
+    "expected_answer": "The Reserve Bank is exploring possible applications of artificial intelligence (AI) to manage the complete lifecycle of risk management. Risk management is integral to the working of central banks, and AI is being examined for potential use across various risk management functions.",
+    "expected_pages": [230],
+    "category": "ai_rbi",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What was the status of India's external debt to GDP ratio?",
+    "expected_answer": "India's external debt to GDP ratio declined to 19.0 per cent in 2023 from 20.0 per cent in 2022, and further to 18.7 per cent at end-December 2023. This ratio remained the lowest among emerging market peers. External debt increased by US$ 23.9 billion in absolute terms over March 2023 levels.",
+    "expected_pages": [104],
+    "category": "external_debt",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "How did capital flows perform in India during 2023-24?",
+    "expected_answer": "During 2023-24 (April-December), capital flows were robust, driven by a turnaround in foreign portfolio investment (FPI) flows. Net inflows under non-resident deposits and external commercial borrowings were higher than a year ago. However, net foreign direct investment (FDI) flows were lower on account of a rise in repatriation of FDI from India.",
+    "expected_pages": [101],
+    "category": "capital_flows",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What does Economic Survey Chapter 14 study about AI and employment in the PBIS sector?",
+    "expected_answer": "Economic Survey Chapter 14 uses an Autoregressive Distributed Lag (ARDL) model to study nonsupervisory employment in the Professional, Business, and Information Services (PBIS) sector from March 2016 to July 2025. The results suggest employment adjustment is more nuanced than the polarised debate around AI-driven job losses would imply. Rather than an abrupt contraction, the estimates point to a change in how employment responds to output growth in the post-2022 period.",
+    "expected_pages": [4, 5],
+    "category": "ai_employment",
+    "source": "Economic Survey Chapter 14"
+  },
+  {
+    "question": "What was the general government deficit and debt as a percentage of GDP in 2023-24?",
+    "expected_answer": "The general government deficit moderated to 8.6 per cent of GDP in 2023-24 (BE) from 9.6 per cent in 2022-23 (RE). General government debt also declined to 81.6 per cent of GDP from 82.5 per cent in 2022-23. The reduction was supported by an increase in tax revenues.",
+    "expected_pages": [90],
+    "category": "fiscal",
+    "source": "RBI Annual Report 2023-24"
+  },
+  {
+    "question": "What role did UPI and digital infrastructure play in expanding financial access in India?",
+    "expected_answer": "UPI, Aadhaar-enabled services, and AI-driven credit scoring have been expanding access to financial services, particularly in rural and underserved areas. The Payments Infrastructure Development Fund (PIDF) substantially aided the growth in digital payments by subsidising deployment of Point of Sale (PoS), mobile PoS terminals, interoperable QR infrastructure, and Aadhaar-enabled biometric devices.",
+    "expected_pages": [188, 13],
+    "category": "digital_payments",
+    "source": "RBI Annual Report 2023-24 + Economic Survey Chapter 3"
+  }
+]

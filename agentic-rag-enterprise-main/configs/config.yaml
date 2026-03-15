@@ -1,0 +1,41 @@
+# Configuration for Agentic RAG Enterprise
+
+ingestion:
+  # Chunking parameters
+  chunk_size: 512            # target tokens per chunk
+  chunk_overlap: 64          # overlap between chunks
+  min_chunk_size: 100        # discard chunks smaller than this
+  respect_sections: true     # split on section headers
+  keep_tables_intact: true   # don't split tables across chunks
+
+retrieval:
+  # Vector search
+  vector_top_k: 20           # initial candidates from vector search
+  # BM25 keyword search
+  bm25_top_k: 20             # initial candidates from BM25
+  # Fusion
+  fusion_method: "rrf"       # reciprocal rank fusion
+  rrf_k: 60                  # RRF constant
+  # Re-ranking
+  rerank_top_k: 5            # final results after re-ranking
+  rerank_batch_size: 16
+
+agent:
+  # Self-correction
+  max_retries: 2             # max re-query attempts
+  relevance_threshold: 0.6   # minimum relevance score to accept retrieval
+  # Generation
+  max_tokens: 1024
+  temperature: 0.1           # low temp for factual accuracy
+  require_citations: true
+
+evaluation:
+  test_set_path: "src/evaluation/test_set.json"
+  metrics:
+    - retrieval_hit_rate
+    - retrieval_mrr
+    - precision_at_k
+    - answer_faithfulness
+    - citation_accuracy
+    - latency_p50
+    - latency_p95
